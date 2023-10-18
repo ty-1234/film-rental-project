@@ -1,4 +1,4 @@
-# Films4You Database Analyser App
+# Film rental App
 
 This project complements Film4You's production system by providing database analysis functionality.
 
